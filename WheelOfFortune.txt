@@ -1,0 +1,57 @@
+Wheel of Fortune Game Rules
+-Asssuming a 3 player game
+
+Each episode has 3 tossup rounds worth $1,000 , $2,000 , and $2,000 each
+	-Tossup rounds each name a category, and the board keeps filling itself one letter at a time
+	 until someone solves it
+	-1st and 2nd tossup is at the beginning of the show
+	-Then 2 game rounds occur
+	-Then the 3rd tossup (a triple tossup)
+	-Then the 3rd game round
+	-Then the bonus round
+	-Whoever wins the tossup goes first for the game rounds
+
+Special wheel wedges:
+	- Lose a turn: if a contestant spins this, they are skipped and the round moves on to the next contestant
+	- Bankrupt: contestant will lose their turn AND lose all the money they earned in the current round so far
+
+In the main game, contestants have three options:
+	- Spin the wheel and call a consonant (each consonant is worth the cash value of the wedge the wheel lands on).
+	  Contestants can continue spinning the wheel until they miss a letter, spin a Bankrupt, or Lose a Turn.
+	  Once a consonant/vowel is guessed it cannot be re-guessed.
+	  At all times, a contestant will know:
+		1) Which consonants/vowels are on the board and therefore apart of the phrase to be guessed
+		2) Which consonants/vowels are still available for guessing
+		3) If a contestant guesses an incorrect consonant/vowel, all contestants will know that the consonant/vowel
+                   is not apart of the phrase
+	- Buy a vowel for $250 (the contestant must have enough money for THAT ROUND, and it must be done before they spin the wheel)
+	- Solve the puzzle (the contestant must state they wish to solve the puzzle before spinning the wheel)
+		- Upon successfully solving the puzzle, the contestant's score is totalled and written on the scoreboard
+		- If the attempt to solve is incorrect, the round moves on to the next contestant
+		- Contestant doesn't win any money by solving the correct phrase
+
+Winning the game:
+	-After 3 puzzle rounds have been played, the contestant with the most cumulative points wins the main game and moves on to 
+	 the bonus round to become the "Big Winner".
+
+Bonus round:
+	-Additional cash and prizes
+	-The contestant will spin a different bonus wheel, and the slot it lands on will be the reward. 
+	 The contestant will not be told the prize or cash amount
+	-The contestant chooses the category( option of 3, ie What are you doing?, Things, Place)
+	-The letters R, S, T, L, N, E are filled in on the board where they occur
+	-The contestant then chooses 3 consonants and 1 vowel to put on the board, and then try to guess the phrase in 10 seconds
+
+Categories:
+	- What Are You Doing? (frequently the category for the important prize puzzle)
+	- Things
+	- Place
+	- Same Name (always has an AND or &)
+	- Star & Role (always has an AS)
+	- Song & Artist (always has a BY)
+	- Title & Author (always has a BY)
+	- Phrases
+	- Food & Drink
+	- Quotation
+	- Before & After
+	- And many more
