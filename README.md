@@ -8,3 +8,4 @@ You only need to import the source code.
 
 Note: You may have to try both platforms if the homepage doesn't show
 the wheel of fortune picture
+Also, the tossup rounds were not implemented in this project
